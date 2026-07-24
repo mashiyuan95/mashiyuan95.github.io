@@ -1,28 +1,25 @@
-title: Sen Li's Homepage
-page-top-title: Sen Li
-top-section-bg-text: Data Science
+title: Shiyuan Ma(马诗源)'s Homepage
+page-top-title: Shiyuan Ma
+top-section-bg-text: 马诗源
 backgrounds:
   - static/assets/background/background_0.jpeg
   - static/assets/background/background_1.jpeg
 background-interval-ms: 7000
 background-overlay: 0.52
-copyright-text: '&copy; Sen Li 2023-2026. All Rights Reserved.'
-github-link:
-  text: Github
-  href: https://github.com/senli1073
+copyright-text: '&copy; Shiyuan Ma 2023-2026. All Rights Reserved.
 license-link:
   text: License
   href: https://github.com/senli1073/senli1073.github.io/blob/main/LICENSE
 sections:
   - id: home
     nav: HOME
-    title: Sen Li&ensp;|&ensp;李森
+    title: Shiyuan Ma&ensp;|&ensp;马诗源
     href: '#page-top' # Default to '#<id>' if not specified
   - id: publications
     nav: PUBLICATIONS
     title: PUBLICATIONS
     icon: bi-file-text-fill
-  - id: awards
-    nav: AWARDS
-    title: AWARDS
+  - id: news
+    nav: NEWS
+    title: NEWS
     icon: bi-award-fill
