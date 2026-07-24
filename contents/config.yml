@@ -22,4 +22,4 @@ sections:
   - id: news
     nav: NEWS
     title: NEWS
-    icon: bi-award-fill
+    icon: bi-news-fill
