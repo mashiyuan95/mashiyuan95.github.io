@@ -14,4 +14,4 @@
 
 - <strong>Shiyuan Ma</strong>*, Lei Xie, Chuyu Wang, Yanling Bu, Long Fan, Jingyi Ning, Qing Guo, Baoliu Ye, and Sanglu Lu. LED Can Backscatter: Multi-Modal based 3D Localization via LED-tag. Accepted to appear In Proceeding of IEEE International Conference on Distributed Computing Systems (2024). <strong>(ICDCS, CCF B)</strong>*
 
-- <strong>Shiyuan Ma</strong>*, Tingpei Huang, Shibao Li, Junwei Huang, Tiantian Ma, Jianhang Liu. MCSM-Wri: A Small-Scale Motion Recognition Method Using WiFi Based on Multi-Scale Convolutional Neural Network (2019). \textbf{(Sensors, SCI 三区)}.
+- <strong>Shiyuan Ma</strong>*, Tingpei Huang, Shibao Li, Junwei Huang, Tiantian Ma, Jianhang Liu. MCSM-Wri: A Small-Scale Motion Recognition Method Using WiFi Based on Multi-Scale Convolutional Neural Network (2019). <strong>(Sensors, SCI 三区)</strong>*
