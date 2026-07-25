@@ -1,6 +1,6 @@
-title: User Name's Homepage
-page-top-title: User Name
-top-section-bg-text: Computer Science
+title: Shiyuan Ma (马诗源)'s Homepage
+page-top-title: 马诗源的主页
+top-section-bg-text: 马诗源
 backgrounds:
   - static/assets/background/background_0.jpeg
   - static/assets/background/background_1.jpeg
@@ -16,7 +16,7 @@ license-link:
 sections:
   - id: home
     nav: HOME
-    title: User Name&ensp;|&ensp;姓名
+    title: Shiyuan Ma&ensp;|&ensp;马诗源
     href: '#page-top' # Default to '#<id>' if not specified
   - id: publications
     nav: PUBLICATIONS
