@@ -205,6 +205,11 @@ section .main-body{
     height: 100%;
 }
 
+.highlight-red {
+  color: red;
+  font-weight: bold;
+}
+
 .top-bg::before {
     content: "";
     position: absolute;

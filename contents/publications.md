@@ -1,6 +1,8 @@
 #### Published
 
-- <strong>Shiyuan Ma</strong>, Lei Xie*, Hexiang Yu, Zhongkang Qiao, Long Fan, Chuyu Wang. Mutcouple-tag: A New Paradigm for Interface Design of RFID-based Sensing Mechanism via Mutual Inductance Coupling. Accepted to appear In Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (2026). <strong>(UbiComp, CCF A)</strong> [[Paper]](https://doi.org/)
+- <strong>Shiyuan Ma</strong>, Lei Xie*, Hexiang Yu, Zhongkang Qiao, Long Fan, Chuyu Wang. Mutcouple-tag: A New Paradigm for Interface Design of RFID-based Sensing Mechanism via Mutual Inductance Coupling. Accepted to appear In Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (2026).
+<span style="color: red; font-weight: bold;">(UbiComp, CCF A)</span>
+ <strong>(UbiComp, CCF A)</strong> [[Paper]](https://doi.org/)
 
 - Yu He, Long Fan, Chuyu Wang*, <strong>Shiyuan Ma</strong>, Wenhui Zhou, Lei Xie. Beyond the FoV: Identity-Preserving Cross-Region Multi-Target Tracking with Collaborative mmWave Radar. Accepted to appear In Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (2026). <strong>(UbiComp, CCF A)</strong> [[Paper]](https://doi.org/10.1016/)
 
