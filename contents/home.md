@@ -1,16 +1,13 @@
 
-
-[![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
-
-He is currently a Fellow in the Department of Earth and Planetary Sciences (EPS) at Harvard University.
+Shiyuan Ma is currently a Lecturer at the School of Information Engineering, Dalian University (DLU). He received his Ph.D. degree from the School of Computer Science and Technology at Nanjing University (NJU), under the supervision of Prof. [[Lei Xie.]](https://cs.nju.edu.cn/lxie/publication.htm)
 
 #### Contact
 
-Email: user[at]fas.harvard.edu
+Email: mashiyuan@nju.edu.edu
 
 #### Education
-M.E., Computer Science and Technology, China University of Mining and Technology, 2022—2025.\
-B.E., Data Science and Big Data Technology, China University of Mining and Technology, 2018—2022.
+Ph.D., Computer Science and Technology, Nanjing University.\
+M.E., Information and Communication Engineering, China University of Petroleum (East China) .
 
 #### Research Interests
-Machine Learning for Seismology; Foundation Model; Observational Seismology; Microseismic Monitoring
+Pervasive Computing, Wireless Sensing and Mobile Computing
