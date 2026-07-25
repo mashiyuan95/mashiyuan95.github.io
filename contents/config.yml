@@ -19,7 +19,7 @@ sections:
     nav: PUBLICATIONS
     title: PUBLICATIONS
     icon: bi-file-text-fill
-  - id: news
-    nav: NEWS
-    title: NEWS
-    icon: bi-news-fill
+  - id: awards
+    nav: AWARDS
+    title: AWARDS
+    icon: bi-awards-fill
