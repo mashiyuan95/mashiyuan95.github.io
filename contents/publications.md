@@ -1,7 +1,3 @@
-#### Submitted
-
-- <strong>S. Li</strong>*, X. Yang, S. M. Mousavi, A. Cao, K. Fan, Y. Liu, C. Wang, and Q. Niu. Learning Earthquake Wave Arrival Time Picking from Labels with Inaccuracies. <strong>Under Review</strong> [[Code]](https://github.com/senli1073/LaNCor)
-
 #### Published
 
 - <strong>Shiyuan Ma</strong>*, Lei Xie, Hexiang Yu, Zhongkang Qiao, Long Fan, Chuyu Wang. Mutcouple-tag: A New Paradigm for Interface Design of RFID-based Sensing Mechanism via Mutual Inductance Coupling. Accepted to appear In Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (2026). <strong>(UbiComp, CCF A)</strong>*
