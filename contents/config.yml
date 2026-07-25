@@ -20,6 +20,6 @@ sections:
     title: PUBLICATIONS
     icon: bi-file-text-fill
   - id: awards
-    nav: AWARDS
+    nav: NEWS
     title: NEWS
     icon: bi-award-fill
